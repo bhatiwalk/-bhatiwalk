@@ -1,2 +1,2 @@
 # -bhatiwalk
-This is HTML project
+This is HTML and CSS project
